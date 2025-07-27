@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @feelipemarques
 - 👀 I’m interested in back-end languages and games
-- 🌱 I’m currently learning Java, JS and Python
+- 🌱 I’m currently learning Java (Quarkus & Spring) and Angular
 - 💞️ I’m looking to collaborate on any projects to improve my skills
 
 <!---
