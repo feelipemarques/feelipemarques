@@ -13,7 +13,7 @@
 </p>
 
 <h4 align="center">Most Used Languages</h4>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=feelipemarques&layout=compact"/></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=feelipemarques&layout=compact&theme=dark"/></p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=feelipemarques&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
