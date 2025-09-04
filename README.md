@@ -19,10 +19,11 @@
 
 ### 🧠 About Me
 
-- 👀 I’m interested in back-end languages and games<br/>
-- 🌱 I’m currently learning Java (Quarkus & Spring) and Angular<br/>
-- :atom: I’m looking for help with: Java APIs, Microservices<br/>
-
+- 🧑‍🏫 Associate Degree in Systems Analysis and Development
+- 🏢 Software Engineer at [CEF](https://www.caixa.gov.br/)
+- 👀 I’m interested in back-end languages and FPS games<br/>
+- 🌱 I’m currently learning Java Quarkus and Angular<br/>
+- :atom: I’m looking for help with: Java APIs, Microservices and Games<br/>
 
 ---
 
